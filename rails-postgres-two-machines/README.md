@@ -5,7 +5,7 @@ This Vagrantfile configure two machines using the provider VirtualBox, one VM wi
 ## Usage
 
 1. Have the vagrant installed.
-2. Clone the Vagrantfile to target directory.
+2. Copy or clone or make download the Vagrantfile to target directory.
 3. Run in your terminal `vagrant up && vagrant ssh rails`.
 4. Wait the both VMs installation and configuration.
 5. If everything went right you will be logged in Rails VM.
